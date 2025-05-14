@@ -116,4 +116,3 @@ V0.02.02
 email: yhkjsj@foxmail.com  
 ---
 
-This format maintains perfect alignment between Chinese and English content, making it easy to copy-paste while keeping both languages clearly paired. Let me know if you need any adjustments!
