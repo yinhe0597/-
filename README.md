@@ -1,4 +1,3 @@
-Here's a bilingual Chinese-English version of your README with clear section pairing for easy copying:
 
 ---
 # 360°全景图查看器 / 360° Panorama Viewer  
