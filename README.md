@@ -109,7 +109,8 @@
   *Optimize mobile experience*  
 
 ## 版本号 / Version  
-V0.02.02  
+V0.02.03
+改动说明：已将js依赖库改为本地加载
 
 ## Bug反馈 / Bug Reports  
 email: yhkjsj@foxmail.com  
