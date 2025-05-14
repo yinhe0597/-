@@ -82,4 +82,4 @@
 - V0.02.02
 
 ## Bug反馈
-- QQ：790998630
+- yhkjsj@foxmail.com
